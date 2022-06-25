@@ -14,16 +14,21 @@ DETAILS OF USES LIBARIES :
   **
 Steps To Follow **
 ---------------------------------------------------------------------
+
 -> Install all necessary libary file into your system.[scapy]
+
 -> Download netscanner.py
+
 -> Go to the path where download ".py" file.
+
 -> chmod +x netscanner.py{Linux}
+
 -> command : "sudo python3 netscanner.py -h"
 
 
 **Example :**
 ---------------------------------------------------------------------
--> Get help for arguments to exxecute command.
+-> Get help for arguments to execute command.
 
       command : sudo python3 netscanner.py -h
    
